@@ -24,7 +24,7 @@ A restaurant table booking and management system for Little Lemon restaurant. Th
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone git@github.com:Anshulai/LittleLemon_Booking-main.git
 ```
 
 2. Install dependencies:
